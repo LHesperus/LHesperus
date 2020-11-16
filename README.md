@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![pic](https://lcg-pic-tencent-1258286866.cos.ap-chengdu.myqcloud.com/%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90/%E9%BE%99%E7%8F%A0/564835.jpg)
+![pic](https://lcg-pic-tencent-1258286866.cos.ap-chengdu.myqcloud.com/%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90/%E9%BE%99%E7%8F%A0/QQ%E6%88%AA%E5%9B%BE20201116201206.jpg)
 
 |  MyBlog   |  CSDN |
 |  ----  | ----  |
